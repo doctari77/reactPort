@@ -8,7 +8,7 @@ class About extends Component {
                     <h1>About Me</h1> 
 
                     <img src={portimg} width="180" height="180" alt="abtimg"/>
-                    <p>IT Professional and Developer looking for the right employer to offer his services
+                    <p>IT professional, strategic leader, developer and accomplished team builder, motivates and leads others while successfully driving towards the end result of desired deliverables. Able to understand, balance, and implement the technological and business needs of the organization. 
                     </p>
                 
             </section>

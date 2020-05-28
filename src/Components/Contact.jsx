@@ -12,7 +12,8 @@ class Contact extends Component {
                 <h4>Please feel free to email me at any time.</h4>
                 <h4>Email Id: spotontechnology@gmail.com <spotontechology className="com"></spotontechology></h4>
                 <a id="mail"href="https://mail.google.com/mail/?view=cm&fs=1&to=spotontechnology@gmail.com">Click Here To Send Mail</a>
-               
+                <br></br>
+               <a id="mail"href="https://github.com/doctari77">You can visit me on github by clicking here</a>
 
                 
                 

@@ -10,7 +10,7 @@ class Portfolio extends Component {
             
             <section className="projects">
                   <h1 id='Portfolio'>Portfolio</h1>
-                  <p>Please see my github page.</p>
+                  <p>Please see my github page under contacts to find the link.</p>
 
                     <div>
                         <p></p>
