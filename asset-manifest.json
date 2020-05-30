@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/reactPort/static/css/main.8c58bbe4.chunk.css",
+    "main.js": "/reactPort/static/js/main.3fa93762.chunk.js",
+    "main.js.map": "/reactPort/static/js/main.3fa93762.chunk.js.map",
+    "runtime~main.js": "/reactPort/static/js/runtime~main.dbb28688.js",
+    "runtime~main.js.map": "/reactPort/static/js/runtime~main.dbb28688.js.map",
+    "static/js/2.3cbe636f.chunk.js": "/reactPort/static/js/2.3cbe636f.chunk.js",
+    "static/js/2.3cbe636f.chunk.js.map": "/reactPort/static/js/2.3cbe636f.chunk.js.map",
+    "index.html": "/reactPort/index.html",
+    "precache-manifest.9bf20e71cf29dc2ac2b364c5104f95f2.js": "/reactPort/precache-manifest.9bf20e71cf29dc2ac2b364c5104f95f2.js",
+    "service-worker.js": "/reactPort/service-worker.js",
+    "static/css/main.8c58bbe4.chunk.css.map": "/reactPort/static/css/main.8c58bbe4.chunk.css.map",
+    "static/media/IMG_03891.jpg": "/reactPort/static/media/IMG_03891.e2b64660.jpg",
+    "static/media/csslogo.png": "/reactPort/static/media/csslogo.04cf122b.png",
+    "static/media/database.jpg": "/reactPort/static/media/database.719fefb4.jpg",
+    "static/media/html5logo.jpg": "/reactPort/static/media/html5logo.3a431a93.jpg",
+    "static/media/javascriptimg2.png": "/reactPort/static/media/javascriptimg2.184a7681.png",
+    "static/media/mngodbimg.png": "/reactPort/static/media/mngodbimg.d261a13e.png"
+  }
+}
